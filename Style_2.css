@@ -1,0 +1,40 @@
+* {
+
+}
+
+
+h1{
+    background-color: tomato;
+    color: white;
+    font-size: 50px;
+
+}
+
+.container{
+    padding: 20px;
+    margin: 8px;
+    border: 20px solid black;
+    border-radius: 31px;
+}
+
+#myparagraph{
+    background-color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+border: 3px solid black;
+padding: 5px;
+border-radius: 8px; 
+}
+
+ul {
+    list-style: none; 
+}
+
+ul li {
+    float: left;
+    margin: 3px;
+}
